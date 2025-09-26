@@ -1,0 +1,1 @@
+# EuroSat_Land_Cover_Detection_UsingCNN
